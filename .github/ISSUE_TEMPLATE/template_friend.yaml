@@ -1,5 +1,5 @@
 name: 友链模板
-description: 自助添加友链，添加issue后无需关闭（抓取open & action的issue，关闭会导致友链不显示），成功后会有邮件提醒。
+description: 自助添加友链，添加issue后无需关闭（抓取 open & active 的issue，关闭会导致友链不显示），成功后会有邮件提醒。
 labels: []
 body:
   - type: checkboxes
@@ -22,7 +22,7 @@ body:
       required: true
     attributes:
       label: 友链信息
-      description: 请在双引号中填写，不要修改格式。
+      description: 请在双引号中填写，不要修改格式。title:能代表你或你的小站的昵称;url:小站链接;avater:头像;screenshot:小站截图(可选);description:简介
       value: |
         ```json
         {
