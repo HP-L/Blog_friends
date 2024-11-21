@@ -1,5 +1,5 @@
 name: 友链模板
-description: 自助添加友链。
+description: 自助添加友链，添加issue后无需关闭（抓取open & action的issue，关闭会导致友链不显示），成功后会有邮件提醒。
 labels: []
 body:
   - type: checkboxes
