@@ -1,0 +1,45 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "浩瀚星河",
+      "url": "https://haohanxinghe.com/",
+      "avatar": "https://haohanxinghe.com/assets/images/avatar.webp",
+      "screenshot": "https://image.codepzj.cn/image/202410022148697.png",
+      "description": "代码，日常，人生"
+    },
+    {
+      "title": "薩魔5mg",
+      "url": "https://5mg.fun/",
+      "avatar": "https://s2.loli.net/2024/11/14/tehNj1s6CIwqnFi.png"
+    },
+    {
+      "title": "XINGYE",
+      "url": "https://blog.xing-ye.top/",
+      "avatar": "https://blog.xing-ye.top/avatar.webp",
+      "screenshot": "https://xingye.s3.bitiful.net/siteshot.webp",
+      "description": "不要放弃，坚持学习，坚守理想，等待时机！"
+    },
+    {
+      "title": "陵长镜",
+      "url": "https://r1n.top",
+      "avatar": "https://s1.imagehub.cc/images/2024/11/21/821d8da0340bf81203c956d7d09ea37e.jpeg",
+      "screenshot": "https://s1.imagehub.cc/images/2024/11/21/89a346317b47252d0187d4e5f15ecc54.jpg",
+      "description": "Everything collapses, but you rise."
+    },
+    {
+      "title": "贰猹的小窝",
+      "url": "https://noionion.top/",
+      "avatar": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg",
+      "screenshot": "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png",
+      "description": "用这生命中的每一秒，给自己一个不后悔的未来"
+    },
+    {
+      "title": "子书承宇",
+      "url": "https://zishu.is-cool.dev/",
+      "avatar": "https://zishu.is-cool.dev/headimg/my_avatar.jpg",
+      "screenshot": "https://zishu.is-cool.dev/headimg/blog_screenshot.png",
+      "description": "霰雪纷其无垠兮，云霏霏而承宇"
+    }
+  ]
+}
